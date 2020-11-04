@@ -1,0 +1,152 @@
+.text-camp{
+	color:rgb(127,127,127,0.3);
+}
+
+.text-camp-violet{
+	color:rgb(139,21,158,189);
+}
+
+.btn-violet{
+	background: rgb(139,21,158,189);
+}
+
+.input-camp{
+	border:2px solid rgb(127,127,127,0.3);
+	height:50px;
+	border-radius: 10px;
+}
+
+.input-camp-violet{
+	border:0px solid red;
+	border-bottom: 2px solid rgb(139,21,158,189);
+	height: 40px;
+	background: none;
+	border-radius: 0px;
+}
+
+.input-camp-violet:focus{
+	box-shadow: none !important;
+	box-decoration-break: none !important;
+	background: none;
+}
+
+.textarea-camp{
+	border:2px solid rgb(127,127,127,0.3);
+	border-radius: 10px;
+}
+
+.textarea-camp-violet{
+	border:0px solid red;
+	border-radius: 0px;
+	background: none;
+	border-bottom: 2px solid rgb(139,21,158,189);
+}
+
+.textarea-camp-violet:focus{
+	box-shadow: none !important;
+	box-decoration-break: none !important;
+	background: none;
+}
+
+.box-camp{
+	box-shadow: 5px 5px 10px 0px rgb(127,127,127,0.2);
+}
+
+.box-button-camp{
+	box-shadow: -1px 3px 5px 1px rgb(127,127,127,0.3);
+}
+
+.no-border{
+	border:0px solid white !important;
+}
+
+.border-radius-10{
+	border-radius: 10px
+}
+
+.border-radius-20{
+	border-radius: 20px;
+}
+
+.cursor-pointer {
+	cursor:pointer;
+}
+
+.pos-relative {
+	position:relative;
+}
+
+.overflow-a{
+	overflow: auto;
+}
+
+.overflow-h{
+	overflow: hidden;
+}
+
+.ft-10 {
+	font-size: 10px;
+}
+
+.ft-11 {
+	font-size: 11px;
+}
+
+.ft-12{
+	font-size: 12px;
+}
+
+.ft-13{
+	font-size: 13px;
+}
+
+.ft-14{
+	font-size: 14px;
+}
+
+.ft-15{
+	font-size: 15px;
+} 
+
+.ft-16{
+	font-size: 16px;
+}
+
+.ft-17{
+	font-size: 17px;
+}
+
+.ft-18{
+	font-size: 18px;
+}
+
+.ft-19{
+	font-size: 19px;
+}
+
+.ft-20{
+	font-size: 20px;
+}
+
+.page-link{
+	 margin-left: 5px;
+	 margin-right: 5px;
+	 border:0px solid violet;
+	 background: rgb(139,21,158,189);
+	 border-radius: 50%;
+	 color:white;
+}
+
+.page-link:hover{
+ 	color: white;
+ 	background: rgb(139,21,158,0.3);
+}
+
+.bg-none{
+ 	background: none;
+}
+
+.paginate-overflow{
+	overflow-x:auto;
+	max-width:95%;
+}
